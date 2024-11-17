@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Do Nguyen Giac - @donguyengiac 
-- 👀 I’m interested in Mechanical/Electrical Engineering & Software Development. Additive Manufacturing technology enthusiast.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Giac/Jack Do - @donguyengiac 
+- 👀 Mechanical/Aerospace Engineering & AI-ML student at Duke University
+- 🌱 This is a collection of random projects that, certainly interested me enough at a point in time to warranty the effort to push to Git, and might interest you.
+- 📖 A lot of my materials contain resources & lecture notes from MITOCW courses I've studied. Peruse at will.
+- 🔍 Background of past interests/endeavors/in-depth explorations: Additive Manufacturing Technology & Design, Applied Machine Learning in Robotics, Analog Circuit Design.
 
 <!---
 donguyengiac/donguyengiac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
